@@ -1,0 +1,717 @@
+Archive member included because of file (symbol)
+
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o)
+                              Sync_Write.o (puts)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o) (__iob)
+..\..\..\lib\libserial.a(serial.o)
+                              Sync_Write.o (serial_initialize)
+..\..\..\lib\libdynamixel.a(dynamixel.o)
+                              Sync_Write.o (dxl_get_rxpacket_error)
+..\..\..\lib\libdynamixel.a(dxl_hal.o)
+                              ..\..\..\lib\libdynamixel.a(dynamixel.o) (dxl_hal_open)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+                              ..\..\..\lib\libserial.a(serial.o) (fdevopen)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o)
+                              ..\..\..\lib\libdynamixel.a(dxl_hal.o) (__ltsf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o)
+                              ..\..\..\lib\libserial.a(serial.o) (__divsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o) (__divsf3x)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+                              ..\..\..\lib\libserial.a(serial.o) (__fixunssfsi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+                              ..\..\..\lib\libserial.a(serial.o) (__floatsisf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_cmp.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o) (__fp_cmp)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_inf.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o) (__fp_inf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_nan.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o) (__fp_nan)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscA.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o) (__fp_pscA)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscB.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o) (__fp_pscB)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_round.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o) (__fp_round)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o) (__fp_split3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o) (__fp_zero)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(gesf2.o)
+                              ..\..\..\lib\libdynamixel.a(dxl_hal.o) (__gtsf2)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o)
+                              ..\..\..\lib\libdynamixel.a(dxl_hal.o) (__mulsf3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3x.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o) (__mulsf3x)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o) (calloc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o) (malloc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memset.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o) (memset)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o) (_exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o) (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+gwReturnDelayCountNum
+                    0x2               ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+__brkval            0x2               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+gfByteTransTime_us  0x4               ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+gwTimeoutCountNum   0x2               ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+gwCountNum          0x2               ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+__flp               0x2               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+__iob               0x6               c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+ .text          0x00000000        0x0 Sync_Write.o
+ .bss           0x00000000        0x0 Sync_Write.o
+ .text.PrintErrorCode
+                0x00000000        0x0 Sync_Write.o
+ .text.PrintCommStatus
+                0x00000000        0x0 Sync_Write.o
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+ .data          0x00000000        0x0 ..\..\..\lib\libserial.a(serial.o)
+ .data          0x00000000        0x0 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_cmp.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_cmp.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_cmp.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_round.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_round.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(gesf2.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(gesf2.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(gesf2.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+LOAD Sync_Write.o
+START GROUP
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a
+LOAD ..\..\..\lib\libserial.a
+LOAD ..\..\..\lib\libdynamixel.a
+LOAD ..\..\..\lib\libzigbee.a
+END GROUP
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1360
+ *(.vectors)
+ .vectors       0x00000000       0xcc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x000000cc                . = ALIGN (0x2)
+                0x000000cc                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000cc        0x0 linker stubs
+ *(.trampolines*)
+                0x000000cc                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000cc                __ctors_start = .
+ *(.ctors)
+                0x000000cc                __ctors_end = .
+                0x000000cc                __dtors_start = .
+ *(.dtors)
+                0x000000cc                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000cc        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+                0x000000cc                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000cc       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000dc       0x1a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+                0x000000dc                __do_copy_data
+ .init4         0x000000f6       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_clear_bss.o)
+                0x000000f6                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000106        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+ *(.init9)
+ *(.text)
+ .text          0x0000010e        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6/crtm2561.o
+                0x0000010e                __vector_38
+                0x0000010e                __vector_22
+                0x0000010e                __vector_28
+                0x0000010e                __vector_1
+                0x0000010e                __vector_32
+                0x0000010e                __vector_34
+                0x0000010e                __vector_24
+                0x0000010e                __vector_12
+                0x0000010e                __vector_46
+                0x0000010e                __bad_interrupt
+                0x0000010e                __vector_6
+                0x0000010e                __vector_31
+                0x0000010e                __vector_35
+                0x0000010e                __vector_39
+                0x0000010e                __vector_3
+                0x0000010e                __vector_23
+                0x0000010e                __vector_30
+                0x0000010e                __vector_45
+                0x0000010e                __vector_11
+                0x0000010e                __vector_13
+                0x0000010e                __vector_17
+                0x0000010e                __vector_19
+                0x0000010e                __vector_7
+                0x0000010e                __vector_49
+                0x0000010e                __vector_41
+                0x0000010e                __vector_43
+                0x0000010e                __vector_27
+                0x0000010e                __vector_5
+                0x0000010e                __vector_33
+                0x0000010e                __vector_47
+                0x0000010e                __vector_37
+                0x0000010e                __vector_4
+                0x0000010e                __vector_44
+                0x0000010e                __vector_9
+                0x0000010e                __vector_2
+                0x0000010e                __vector_21
+                0x0000010e                __vector_15
+                0x0000010e                __vector_29
+                0x0000010e                __vector_40
+                0x0000010e                __vector_8
+                0x0000010e                __vector_26
+                0x0000010e                __vector_48
+                0x0000010e                __vector_14
+                0x0000010e                __vector_10
+                0x0000010e                __vector_50
+                0x0000010e                __vector_16
+                0x0000010e                __vector_18
+                0x0000010e                __vector_20
+                0x0000010e                __vector_42
+ .text          0x00000112      0x342 ..\..\..\lib\libserial.a(serial.o)
+                0x00000292                serial_get_queue
+                0x00000370                std_getchar
+                0x000003ee                serial_initialize
+                0x0000022a                serial_put_queue
+                0x00000112                serial_write
+                0x000001e6                serial_get_qstate
+                0x0000031e                std_putchar
+                0x000002ca                __vector_36
+                0x0000013a                serial_read
+ .text          0x00000454      0x454 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+                0x00000822                dxl_ping
+                0x0000047a                dxl_get_rxpacket_error
+                0x000007be                dxl_write_byte
+                0x000004be                dxl_rx_packet
+                0x00000474                dxl_set_txpacket_length
+                0x00000454                dxl_get_result
+                0x000007ec                dxl_read_byte
+                0x00000654                dxl_tx_packet
+                0x00000848                dxl_terminate
+                0x00000464                dxl_set_txpacket_instruction
+                0x0000048e                dxl_get_rxpacket_length
+                0x0000074a                dxl_write_word
+                0x000004b6                dxl_get_highbyte
+                0x0000084e                dxl_initialize
+                0x000004a2                dxl_makeword
+                0x000004ae                dxl_get_lowbyte
+                0x00000496                dxl_get_rxpacket_parameter
+                0x0000045e                dxl_set_txpacket_id
+                0x00000780                dxl_read_word
+                0x00000728                dxl_txrx_packet
+                0x0000046a                dxl_set_txpacket_parameter
+ .text          0x000008a8      0x3c2 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+                0x0000095a                dxl_hal_close
+                0x00000b84                dxl_hal_get_queue
+                0x00000bbc                dxl_hal_rx
+                0x00000c16                __vector_25
+                0x00000966                dxl_hal_tx
+                0x0000095c                dxl_hal_clear
+                0x000008a8                dxl_hal_open
+                0x00000b4e                dxl_hal_put_queue
+                0x00000b0a                dxl_hal_get_qstate
+                0x000009ae                dxl_hal_set_timeout
+                0x000009d0                dxl_hal_timeout
+                0x00000c6a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x00000c6a       0x38 Sync_Write.o
+                0x00000c6a                main
+ .text.avr-libc
+                0x00000ca2        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(exit.o)
+                0x00000ca2                exit
+ .text.avr-libc
+                0x00000ca8       0x6a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(puts.o)
+                0x00000ca8                puts
+ .text.avr-libc
+                0x00000d12       0x98 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fdevopen.o)
+                0x00000d12                fdevopen
+ .text.avr-libc.fplib
+                0x00000daa        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(cmpsf2.o)
+                0x00000daa                __lesf2
+                0x00000daa                __nesf2
+                0x00000daa                __eqsf2
+                0x00000daa                __cmpsf2
+                0x00000daa                __ltsf2
+ .text.avr-libc.fplib
+                0x00000db2        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3.o)
+                0x00000db2                __divsf3
+ .text.avr-libc.fplib
+                0x00000db6       0xcc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(divsf3x.o)
+                0x00000dcc                __divsf3x
+                0x00000dd0                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000e82       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fixunssfsi.o)
+                0x00000e82                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00000eda       0x7a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(floatsisf.o)
+                0x00000ede                __floatsisf
+                0x00000eda                __floatunsisf
+ .text.avr-libc.fplib
+                0x00000f54       0x48 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_cmp.o)
+                0x00000f54                __fp_cmp
+ .text.avr-libc.fplib
+                0x00000f9c        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_inf.o)
+                0x00000f9c                __fp_inf
+ .text.avr-libc.fplib
+                0x00000fa8        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_nan.o)
+                0x00000fa8                __fp_nan
+ .text.avr-libc.fplib
+                0x00000fae        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscA.o)
+                0x00000fae                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000fbc        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_pscB.o)
+                0x00000fbc                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000fca       0x22 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_round.o)
+                0x00000fca                __fp_round
+ .text.avr-libc.fplib
+                0x00000fec       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_split3.o)
+                0x00000fec                __fp_split3
+                0x00000ffc                __fp_splitA
+ .text.avr-libc.fplib
+                0x00001030        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(fp_zero.o)
+                0x00001030                __fp_zero
+                0x00001032                __fp_szero
+ .text.avr-libc.fplib
+                0x0000103e        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(gesf2.o)
+                0x0000103e                __gtsf2
+                0x0000103e                __gesf2
+ .text.avr-libc.fplib
+                0x00001046        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3.o)
+                0x00001046                __mulsf3
+ .text.avr-libc.fplib
+                0x0000104a       0xc2 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(mulsf3x.o)
+                0x00001062                __mulsf3_pse
+                0x0000105e                __mulsf3x
+ .text.avr-libc
+                0x0000110c       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(calloc.o)
+                0x0000110c                calloc
+ .text.avr-libc
+                0x00001144      0x20a c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00001144                malloc
+                0x0000129e                free
+ .text.avr-libc
+                0x0000134e        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(memset.o)
+                0x0000134e                memset
+                0x0000135c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000135c        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+                0x0000135c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000135c        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001360                _etext = .
+
+.data           0x00800200      0x1da load address 0x00001360
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200      0x1d1 Sync_Write.o
+ .data          0x008003d1        0x2 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+                0x008003d1                gbCommStatus
+ .data          0x008003d3        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x008003d5                __malloc_heap_start
+                0x008003d7                __malloc_heap_end
+                0x008003d3                __malloc_margin
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008003da                . = ALIGN (0x2)
+ *fill*         0x008003d9        0x1 00
+                0x008003da                _edata = .
+                0x008003da                PROVIDE (__data_end, .)
+
+.bss            0x008003da      0x284
+                0x008003da                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008003da       0x84 ..\..\..\lib\libserial.a(serial.o)
+                0x0080045b                gbSerialBufferTail
+                0x0080045a                gbSerialBufferHead
+                0x008003da                gbSerialBuffer
+ .bss           0x0080045e       0xea ..\..\..\lib\libdynamixel.a(dynamixel.o)
+                0x0080045e                gbInstructionPacket
+                0x00800544                gbRxPacketLength
+                0x00800545                gbRxGetLength
+                0x00800546                giBusUsing
+                0x008004fe                gbStatusPacket
+ .bss           0x00800548      0x102 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+                0x00800649                gbDxlBufferTail
+                0x00800548                gbDxlBuffer
+                0x00800648                gbDxlBufferHead
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0080064a        0x6 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(iob.o)
+                0x0080064a                __iob
+ COMMON         0x00800650        0xa ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+                0x00800650                gwReturnDelayCountNum
+                0x00800652                gfByteTransTime_us
+                0x00800656                gwTimeoutCountNum
+                0x00800658                gwCountNum
+ COMMON         0x0080065a        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x0080065a                __brkval
+                0x0080065c                __flp
+                0x0080065e                PROVIDE (__bss_end, .)
+                0x00001360                __data_load_start = LOADADDR (.data)
+                0x0000153a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080065e        0x0
+                0x0080065e                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080065e                PROVIDE (__noinit_end, .)
+                0x0080065e                _end = .
+                0x0080065e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x90
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x30 Sync_Write.o
+ .debug_aranges
+                0x00000030       0x20 ..\..\..\lib\libserial.a(serial.o)
+ .debug_aranges
+                0x00000050       0x20 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_aranges
+                0x00000070       0x20 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_pubnames
+                0x00000000      0x4fd
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x42 Sync_Write.o
+ .debug_pubnames
+                0x00000042       0xfa ..\..\..\lib\libserial.a(serial.o)
+ .debug_pubnames
+                0x0000013c      0x24f ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_pubnames
+                0x0000038b      0x172 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_info     0x00000000     0x1035
+ *(.debug_info)
+ .debug_info    0x00000000      0x10a Sync_Write.o
+ .debug_info    0x0000010a      0x4cc ..\..\..\lib\libserial.a(serial.o)
+ .debug_info    0x000005d6      0x5d9 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_info    0x00000baf      0x486 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x676
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0xb5 Sync_Write.o
+ .debug_abbrev  0x000000b5      0x231 ..\..\..\lib\libserial.a(serial.o)
+ .debug_abbrev  0x000002e6      0x21d ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_abbrev  0x00000503      0x173 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_line     0x00000000      0xd6a
+ *(.debug_line)
+ .debug_line    0x00000000      0x169 Sync_Write.o
+ .debug_line    0x00000169      0x340 ..\..\..\lib\libserial.a(serial.o)
+ .debug_line    0x000004a9      0x533 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_line    0x000009dc      0x38e ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_frame    0x00000000      0x300
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x40 Sync_Write.o
+ .debug_frame   0x00000040       0xa0 ..\..\..\lib\libserial.a(serial.o)
+ .debug_frame   0x000000e0      0x160 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_frame   0x00000240       0xc0 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_str      0x00000000      0x645
+ *(.debug_str)
+ .debug_str     0x00000000       0xe8 Sync_Write.o
+                                0x12c (size before relaxing)
+ .debug_str     0x000000e8      0x147 ..\..\..\lib\libserial.a(serial.o)
+                                0x1c6 (size before relaxing)
+ .debug_str     0x0000022f      0x26f ..\..\..\lib\libdynamixel.a(dynamixel.o)
+                                0x2c2 (size before relaxing)
+ .debug_str     0x0000049e      0x1a7 ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+                                0x29d (size before relaxing)
+
+.debug_loc      0x00000000      0x853
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x78 Sync_Write.o
+ .debug_loc     0x00000078      0x1e5 ..\..\..\lib\libserial.a(serial.o)
+ .debug_loc     0x0000025d      0x358 ..\..\..\lib\libdynamixel.a(dynamixel.o)
+ .debug_loc     0x000005b5      0x29e ..\..\..\lib\libdynamixel.a(dxl_hal.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Sync_Write.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x28
+ .debug_ranges  0x00000000       0x28 Sync_Write.o
